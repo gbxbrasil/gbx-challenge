@@ -22,6 +22,7 @@ Desenvolver uma aplicação web para controle de tarefas (to-do list).
 ### O que será avaliado?
 
 - Estrutura de projeto
+- Git (commits)
 - Escrita de código
 - Componentes
 
